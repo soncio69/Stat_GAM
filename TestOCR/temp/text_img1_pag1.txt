@@ -1,0 +1,32 @@
+QUADRATURA CONTASBILE DISTINTE 10-dicembre-2019 08:47:52
+A.B.1. 06115 CR CENTO Incassi del: 06/12/2019
+[.1.D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del. Dic N° Del.Cal.. Diff. Del. —— Dell. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 ot. Calcc.Orig.
+39083 00001/ 23403 2.826,25 2.826,25 0 14 14 0 0 0 0 0 0
+Totali filiale 2.826,25 2.826,25 0 14 14 0 0 0 0 0 0
+[.1.D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del.Dic N° Del.Cal.. Diff. Del. Del. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 oL.ca cc.Ong.
+39061 00002/ 67310 3.853,00 3.853,00 0 12 12 0 0 0 0 0 0
+39062 00002/ 67310 2.095,24 2.095,24 0 13 13 0 0 0 0 0 0
+Totali filiale 5.948,24 5.948,24 0 25 25 0 0 0 0 0 0
+L.1.D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del.Dic N° Del.Cal.. Diff. Del. Del. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 of. Calcc.Orig.
+39070 00003/ 09370 349,00 349,00 0 1 1 0 0 0 0 0 0
+39071 00003/ 09370 2.156,00 2.156,00 0 7 7 0 0 0 0 0 0
+Totali filiale 2.505,00 2.505,00 0 8 8 0 0 0 0 0 0
+IB Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del. Dic N° Del.Cal.. Diff. Del. Del. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 oL.ca Cc.Ong.
+39072 00004/ 23405 5.446,00 5.446,00 0 6 6 0 0 0 0 0 0
+Totali filiale 5.446,00 5.446,00 0 6 6 0 0 0 0 0 0
+[.1.D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del. Dic N° Del.Cal.. Diff. Del. —— Deel. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> O Of.calcc.Org.
+39098 00005/ 37010 7.031,51 7.031,51 0 42 42 0 0 0 0 0 0
+Totali filiale 7.031,51 7.031,51 0 42 42 0 0 0 0 0 0
+L.1.D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del. Dic N° Del.Cal.. Diff. Del. —— Dell. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> O Of.Calcc.Org.
+39081 00006/ 09373 4.102,00 4.102,00 0 5 5 0 0 0 0 0 0
+39082 00006/ 09373 665,00 665,00 0 5 5 0 0 0 0 0 0
+Totali filiale 4.767,00 4.767,00 0 10 10 0 0 0 0 0 0
+[1D Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del. Dic N° Del.Cal.. Diff. Del. ~~ Del. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 ot. Calcc.Orig.
+39094 00007/ 67350 10.508,62 10.508,62 0 25 25 0 0 0 0 0 0
+Totali filiale 10.508,62 10.508,62 0 25 25 0 0 0 0 0 0
+MB Filiale cod/ Cab Tot. Distinta Tot. Calcolato Diff.Importi N° Del.Dic N° Del.Cal.. Diff. Del. Del. Sto. Imp.Del. Sto. Esito <>0 mp Esito <> 0 ot.Calcc. Orig.
+39073 00008/ 23404 826,00 826,00 0 6 6 0 0 0 0 0 0
+39074 00008/ 23404 524,00 524,00 0 1 1 0 0 0 0 0 0
+Totali filiale 1.350,00 1.350,00 0 7 % 0 0 0 0 0 0.
+10-dicembre-2019 Page 1
+
